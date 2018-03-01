@@ -25,6 +25,10 @@ header {
   background-color: #e2e2e2;
 }
 
+h1 {
+  text-align: center;
+}
+
 a {
   color: #0074d9;
   text-decoration: none;
@@ -33,4 +37,8 @@ a {
 a:hover {
   color: #fff;
   background-color: #0074d9;
+}
+
+li {
+  display: inline-block;
 }
